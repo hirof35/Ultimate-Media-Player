@@ -67,3 +67,5 @@ Enjoy your favorite media with ultimate freedom.
 [ ] プレイリストの並び替え機能
 
 [ ] ピクチャー・イン・ピクチャー（PiP）モードの公式サポート
+
+![Uploading スクリーンショット 2026-05-03 132637.png…]()
